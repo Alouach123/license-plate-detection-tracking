@@ -1,4 +1,3 @@
-```markdown
 # Vehicle License Plate Detection and Tracking
 
 This repository contains a Google Colab notebook that demonstrates a complete pipeline for **vehicle license plate detection and tracking**. The project leverages state-of-the-art deep learning techniques to accurately locate license plates in images and track them across video sequences.
@@ -141,4 +140,3 @@ This project is licensed under the **MIT License**.
 * [Roboflow](https://roboflow.com/) for the dataset and platform.
 * The authors of DeepSORT and the underlying tracking algorithms.
 * Google Colab for providing the computing environment.
-```
